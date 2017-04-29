@@ -1,0 +1,12 @@
+.idea
+config.dist
+var/backup/*
+!var/backup/.gitkeep
+var/cache/*
+!var/cache/.gitkeep
+var/logs/*
+!var/logs/.gitkeep
+var/pre_build/*
+!var/pre_build/.gitkeep
+var/release/*
+!var/release/.gitkeep
